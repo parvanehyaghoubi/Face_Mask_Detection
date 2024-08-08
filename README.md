@@ -76,14 +76,17 @@ To use this project on your system, follow these steps:
 git clone https://github.com/parvanehyaghoubi/Face_Mask_Detection
 ```
 
-2. Download all libaries using::
+2. Download all libaries using:
 ```
 pip install -r requirements.txt
 ```
 
-3. And finally, run `main_mask_detector.py`
+3. Run the application:
+```
+python main_mask_detector.py
+```
 
-4. You can see an environment which create with tkinter:
+5. You can see an environment which create with tkinter:
 
 <p align="center">
   <img src="https://github.com/parvanehyaghoubi/Face_Mask_Detection/blob/main/images/Root_Tkinter.png?raw=true" />
@@ -98,3 +101,9 @@ pip install -r requirements.txt
 6. If you choose `Open Camera`, you can use your camera to face mask detection!!
 
 #### The Project is now ready to use !!
+
+
+#### Links
+##### Parvaneh Yaghoubi
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvaneh-yaghoubi-54362620b/)
+
