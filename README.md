@@ -86,7 +86,7 @@ pip install -r requirements.txt
 python main_mask_detector.py
 ```
 
-5. You can see an environment which create with tkinter:
+4. You can see an environment which create with tkinter:
 
 <p align="center">
   <img src="https://github.com/parvanehyaghoubi/Face_Mask_Detection/blob/main/images/Root_Tkinter.png?raw=true" />
@@ -102,8 +102,11 @@ python main_mask_detector.py
 
 #### The Project is now ready to use !!
 
+#### Contact
+For any inquiries or feedback, please contact:
+- parvaneh.yaghoubi77@gmail.com
 
-#### Links
+#### Link
 ##### Parvaneh Yaghoubi
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvaneh-yaghoubi-54362620b/)
 
