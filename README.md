@@ -58,12 +58,12 @@ Figure 2: Without Mask
 The plots of Model Accuracy and Model Loss are as follows:
 
 <p align="center">
-  <img src="https://github.com/parvanehyaghoubi/Face_Mask_Detection/blob/main/images/Model%20Accuracy.png?raw=true" />
+  <img src="https://github.com/parvanehyaghoubi/Face_Mask_Detection/blob/main/images/Model_Accuracy.png?raw=true" />
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/parvanehyaghoubi/Face_Mask_Detection/blob/main/images/Model%20Loss.png?raw=true" />
+  <img src="https://github.com/parvanehyaghoubi/Face_Mask_Detection/blob/main/images/Model_Loss.png?raw=true" />
 </p>
 
 ## 5. How to Use
@@ -82,8 +82,17 @@ pip install -r requirements.txt
 
 3. And finally, run `main_mask_detector.py`
 
-4. you can see an environment which create with tkinter:
+4. You can see an environment which create with tkinter:
 
-![Tkinter environment](
+<p align="center">
+  <img src="https://github.com/parvanehyaghoubi/Face_Mask_Detection/blob/main/images/Root_Tkinter.png?raw=true" />
+</p>
+
+5. If you choose `Open a File`, the file dialog opens and you can choose your video
+
+<p align="center">
+  <img src="https://github.com/parvanehyaghoubi/Face_Mask_Detection/blob/main/images/File_Dialog.png?raw=true" />
+</p>
+6. If you choose `Open Camera`, you can use your camera to face mask detection!!
 
 #### The Project is now ready to use !!
