@@ -52,6 +52,7 @@ Figure 2: Without Mask
   - scikit-learn https://scikit-learn.org/stable/user_guide.html
   - keras https://keras.io/guides/
   - matplotlib https://matplotlib.org/stable/users/index.html
+  - tkinter https://docs.python.org/3/library/tkinter.html
 
 
  ## 4. Results
