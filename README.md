@@ -93,6 +93,7 @@ pip install -r requirements.txt
 <p align="center">
   <img src="https://github.com/parvanehyaghoubi/Face_Mask_Detection/blob/main/images/File_Dialog.png?raw=true" />
 </p>
+
 6. If you choose `Open Camera`, you can use your camera to face mask detection!!
 
 #### The Project is now ready to use !!
