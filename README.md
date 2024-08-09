@@ -8,7 +8,7 @@ Real time face mask detection using Python, OpenCV and Keras.
 
 ## Table of Contents:
 1. [Abstract](https://github.com/parvanehyaghoubi/Face_Mask_Detection#1-abstract)
-2. [Dataset Creation](#dataset-creation)
+2. [Dataset Creation](https://github.com/parvanehyaghoubi/Face_Mask_Detection#2-dataset-creation)
 3. [Requirements](https://github.com/parvanehyaghoubi/Face_Mask_Detection#3-requirements)
 4. [Results](https://github.com/parvanehyaghoubi/Face_Mask_Detection#4-results)
 5. [How to Use](https://github.com/parvanehyaghoubi/Face_Mask_Detection#5-how-to-use)
