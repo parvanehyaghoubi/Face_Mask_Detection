@@ -106,7 +106,3 @@ python main_mask_detector.py
 For any inquiries or feedback, please contact:
 - parvaneh.yaghoubi77@gmail.com
 
-#### Link
-##### Parvaneh Yaghoubi
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvaneh-yaghoubi-54362620b/)
-
